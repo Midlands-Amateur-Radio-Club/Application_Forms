@@ -10,5 +10,4 @@ Please browse [this folder](https://github.com/Midlands-Amateur-Radio-Club/Appli
 
 Next after you have completed the form please send a *photocopy* of the form and your **Ham Radio License** to: koosmdmm@gmail.com
 
-
-Application_Forms
+--
